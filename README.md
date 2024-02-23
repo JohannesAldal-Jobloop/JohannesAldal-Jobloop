@@ -1,8 +1,10 @@
 # Hello my name is Johannes Aldal and i love making stuff.
 
 I love working in Unity and Windows forms app. 
+
+## Unity
 I have most experince in Unity and i have created a smal game with it witch you can find on [Unity play](https://play.unity.com/mg/other/omringa-v1-00-final) and [itch.io](https://gottejos.itch.io/omringa)
- 
+I also have a personal Unity project that i called [Leikekassa4](https://github.com/JohannesAldal-Jobloop/Leikekassa4) (Playground4), where i just create game mechanics without a spesific game in mind. I just use it to practice Unity.
  
 
 <!--
