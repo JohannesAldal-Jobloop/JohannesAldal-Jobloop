@@ -14,6 +14,9 @@ I also have a personal Unity project that I called [Leikekassa4](https://github.
 ## Windows forms app
 I realy like maing stuff in Winforms, I think the ease of making the visuals for the app and how easy it is to use them in code makes it easy to work in. I have a [project](https://github.com/JohannesAldal-Jobloop/ClickerGameWFA) where im making many games in one app. I have made a simple clikker game, copied the memmory game from Microsofts learn, a Snake copy and i have started on a Tetris clone and a Pong clone.
 
+## 3D modeling and 3D printing 
+I have 3D modeling and 3D printing as a hobby. I have love how the macine works, what it can do and that i can make all i want. I have made my own models that i have printed too. You can find my designes i have relesed publicy on Cults3D.
+
 <!--
 **JohannesAldal-Jobloop/JohannesAldal-Jobloop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
