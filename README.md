@@ -5,7 +5,7 @@ For more spesifics on my education and experiences see my [CV](https://github.co
 
 ### Eg ser etter ein læreplass innan IT-Utviklar faget.
 (In norwegian since this is only appliclible for norwegian companies)
-Eg ser etter ein lærebedrift som kan ta med som lærling innen IT-Utvikler faget. Eg er villeg til å flytte. Eg ser etter bedrifter som driver med utvikling av it systemer.
+Eg ser etter ein lærebedrift som kan ta med som lærling innen IT-Utvikler faget. Eg er villeg til å flytte. Eg ser etter bedrifter som driver med utvikling av IT systemer.
 
 ## Unity
 I have most experince in Unity and I have created a smal game with it witch you can find on [Unity play](https://play.unity.com/mg/other/omringa-v1-00-final) and [itch.io](https://gottejos.itch.io/omringa)
