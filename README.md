@@ -1,5 +1,10 @@
 # Hello my name is Johannes Aldal and i love making stuff.
 
+I love working in Unity and Windows forms app. 
+I have most experince in Unity and i have created a smal game with it witch you can find here: 
+ https://play.unity.com/mg/other/omringa-v1-00-final
+ https://gottejos.itch.io/omringa
+
 <!--
 **JohannesAldal-Jobloop/JohannesAldal-Jobloop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
