@@ -1,4 +1,5 @@
 # Hello my name is Johannes Aldal and I love making stuff.
+I am a person from Norway that loves to make stuff. That be video games, programs, lego, 3D modeling or 3D printing. I became intresded in programming when I relised that the video games I played were created by someone and that meant that I could make them too. 
 
 I have experience in C#, python, JavaScript, php, mysql, html and css.
 For more spesifics on my education and experiences see my [CV](https://github.com/JohannesAldal-Jobloop/JohannesAldal-Jobloop/blob/main/Johannes_Aldal_CV%20(1).pdf).
