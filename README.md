@@ -1,8 +1,10 @@
-# Hello my name is Johannes Aldal and I love making stuff.
-I am a person from Norway that loves to make stuff. That be video games, programs, lego, 3D modeling or 3D printing. I became intresded in programming when I relised that the video games I played were created by someone and that meant that I could make them too. So I am working towards working as a programmer.
+# Hallo! Eg heiter Johannes
+Hallo! Eg heiter Johannes, og eg elskar å lage ting. Det kan vere videospel, program, LEGO, 3D-modellering eller 3D-utskrift. Eg vart interessert i utvikling då eg innsåg at videospela eg spelte vart laga av nokon, og det betydde at eg og kunne lage dei. Difor jobbar eg hardt med å bli utviklar.
+Eg har erfaring med C#, Python, JavaScript, PHP, MySQL, HTML og CSS. For meir spesifikke detaljar om utdanning og erfaring, sjå min [CV](https://github.com/JohannesAldal-Jobloop/JohannesAldal-Jobloop/blob/main/Johannes_Aldal_CV%20(1).pdf).
 
-I have experience in C#, python, JavaScript, php, mysql, html and css.
-For more spesifics on my education and experiences see my [CV](https://github.com/JohannesAldal-Jobloop/JohannesAldal-Jobloop/blob/main/Johannes_Aldal_CV%20(1).pdf).
+# Hello! My name is Johannes
+Hello! My name is Johannes, and I love making stuff. That be videogames, programs, LEGO, 3D-modeling, or 3D-printing. I became interested in development when I realized that the videogames I was playing were made by someone, and that meant that I too could make them. Therefore, I work hard to become a developer.
+I have experience with C#, Python, JavaScript, PHP, MySQL, HTML, and CSS. For more specific details about my education and experience, see my [CV](https://github.com/JohannesAldal-Jobloop/JohannesAldal-Jobloop/blob/main/Johannes_Aldal_CV%20(1).pdf) (in Norwegian).
 
 ### Eg ser etter ein læreplass innan IT-Utviklar faget.
 (In norwegian since this is only appliclible for norwegian companies)
